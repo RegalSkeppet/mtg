@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="57836" Quantity="3" Sideboard="false" Name="Topan Freeblade" />
+  <Cards CatID="54270" Quantity="2" Sideboard="false" Name="Seeker of the Way" />
+  <Cards CatID="56254" Quantity="2" Sideboard="false" Name="Graceblade Artisan" />
+  <Cards CatID="57840" Quantity="3" Sideboard="false" Name="Stalwart Aven" />
+  <Cards CatID="54274" Quantity="2" Sideboard="false" Name="Timely Hordemate" />
+  <Cards CatID="58211" Quantity="2" Sideboard="false" Name="Serra Angel" />
+  <Cards CatID="58195" Quantity="1" Sideboard="false" Name="Aegis Angel" />
+  <Cards CatID="55646" Quantity="2" Sideboard="false" Name="Lightform" />
+  <Cards CatID="57852" Quantity="3" Sideboard="false" Name="Grasp of the Hieromancer" />
+  <Cards CatID="57814" Quantity="2" Sideboard="false" Name="Elemental Bond" />
+  <Cards CatID="18910" Quantity="4" Sideboard="false" Name="Dragon Fangs" />
+  <Cards CatID="54400" Quantity="2" Sideboard="false" Name="Become Immense" />
+  <Cards CatID="53460" Quantity="4" Sideboard="false" Name="Elvish Mystic" />
+  <Cards CatID="57630" Quantity="4" Sideboard="false" Name="Elvish Visionary" />
+  <Cards CatID="54472" Quantity="3" Sideboard="false" Name="Blossoming Sands" />
+  <Cards CatID="57796" Quantity="10" Sideboard="false" Name="Forest" />
+  <Cards CatID="57756" Quantity="10" Sideboard="false" Name="Plains" />
+  <Cards CatID="58189" Quantity="1" Sideboard="false" Name="Terra Stomper" />
+  <Cards CatID="55584" Quantity="2" Sideboard="true" Name="Abzan Advantage" />
+  <Cards CatID="56012" Quantity="4" Sideboard="true" Name="Naturalize" />
+  <Cards CatID="58181" Quantity="3" Sideboard="true" Name="Divine Verdict" />
+  <Cards CatID="58193" Quantity="4" Sideboard="true" Name="Plummet" />
+  <Cards CatID="42714" Quantity="2" Sideboard="true" Name="Creeping Renaissance" />
+</Deck>
