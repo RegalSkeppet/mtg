@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="17243" Quantity="4" Sideboard="false" Name="Fiery Temper" />
+  <Cards CatID="37342" Quantity="2" Sideboard="false" Name="Fire Servant" />
+  <Cards CatID="27088" Quantity="4" Sideboard="false" Name="Furnace of Rath" />
+  <Cards CatID="43311" Quantity="3" Sideboard="false" Name="Increasing Vengeance" />
+  <Cards CatID="25667" Quantity="2" Sideboard="false" Name="Lightning Axe" />
+  <Cards CatID="37240" Quantity="4" Sideboard="false" Name="Lightning Bolt" />
+  <Cards CatID="58154" Quantity="14" Sideboard="false" Name="Mountain" />
+  <Cards CatID="45694" Quantity="4" Sideboard="false" Name="Stuffy Doll" />
+  <Cards CatID="58146" Quantity="11" Sideboard="false" Name="Mountain" />
+  <Cards CatID="52911" Quantity="4" Sideboard="false" Name="Chain Lightning" />
+  <Cards CatID="49335" Quantity="4" Sideboard="false" Name="Wild Guess" />
+  <Cards CatID="25477" Quantity="4" Sideboard="false" Name="Rift Bolt" />
+  <Cards CatID="47813" Quantity="2" Sideboard="true" Name="Glaring Spotlight" />
+  <Cards CatID="39425" Quantity="4" Sideboard="true" Name="Into the Core" />
+  <Cards CatID="38137" Quantity="4" Sideboard="true" Name="Ratchet Bomb" />
+  <Cards CatID="56018" Quantity="2" Sideboard="true" Name="Spidersilk Net" />
+  <Cards CatID="49393" Quantity="2" Sideboard="true" Name="Staff of the Flame Magus" />
+  <Cards CatID="19723" Quantity="1" Sideboard="true" Name="Molten Rain" />
+</Deck>
