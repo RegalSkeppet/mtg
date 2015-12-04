@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="46421" Quantity="3" Sideboard="false" Name="Azorius Charm" />
+  <Cards CatID="48384" Quantity="4" Sideboard="false" Name="Azorius Guildgate" />
+  <Cards CatID="48382" Quantity="2" Sideboard="false" Name="Boros Guildgate" />
+  <Cards CatID="49117" Quantity="3" Sideboard="false" Name="Essence Scatter" />
+  <Cards CatID="58176" Quantity="5" Sideboard="false" Name="Island" />
+  <Cards CatID="46433" Quantity="2" Sideboard="false" Name="Izzet Charm" />
+  <Cards CatID="48376" Quantity="3" Sideboard="false" Name="Izzet Guildgate" />
+  <Cards CatID="53470" Quantity="3" Sideboard="false" Name="Lightning Strike" />
+  <Cards CatID="46419" Quantity="2" Sideboard="false" Name="Lyev Skyknight" />
+  <Cards CatID="50230" Quantity="2" Sideboard="false" Name="Magma Jet" />
+  <Cards CatID="58154" Quantity="4" Sideboard="false" Name="Mountain" />
+  <Cards CatID="50152" Quantity="4" Sideboard="false" Name="Omenspeaker" />
+  <Cards CatID="49561" Quantity="4" Sideboard="false" Name="Opportunity" />
+  <Cards CatID="57756" Quantity="4" Sideboard="false" Name="Plains" />
+  <Cards CatID="49175" Quantity="4" Sideboard="false" Name="Planar Cleansing" />
+  <Cards CatID="50376" Quantity="2" Sideboard="false" Name="Prognostic Sphinx" />
+  <Cards CatID="50590" Quantity="4" Sideboard="false" Name="Spellheart Chimera" />
+  <Cards CatID="50398" Quantity="3" Sideboard="false" Name="Unknown Shores" />
+  <Cards CatID="48398" Quantity="2" Sideboard="false" Name="Warleader's Helix" />
+  <Cards CatID="57874" Quantity="1" Sideboard="true" Name="Enlightened Ascetic" />
+  <Cards CatID="50158" Quantity="4" Sideboard="true" Name="Annul" />
+  <Cards CatID="57620" Quantity="4" Sideboard="true" Name="Smash to Smithereens" />
+</Deck>
