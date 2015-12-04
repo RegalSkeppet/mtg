@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="58038" Quantity="1" Sideboard="false" Name="Avaricious Dragon" />
+  <Cards CatID="48338" Quantity="1" Sideboard="false" Name="Blood Scrivener" />
+  <Cards CatID="26770" Quantity="1" Sideboard="false" Name="Grave Scrabbler" />
+  <Cards CatID="13687" Quantity="4" Sideboard="false" Name="Kris Mage" />
+  <Cards CatID="31891" Quantity="1" Sideboard="false" Name="Malfegor" />
+  <Cards CatID="51388" Quantity="1" Sideboard="false" Name="Curse of Chaos" />
+  <Cards CatID="26435" Quantity="2" Sideboard="false" Name="Reckless Wurm" />
+  <Cards CatID="48344" Quantity="1" Sideboard="false" Name="Sire of Insanity" />
+  <Cards CatID="25401" Quantity="1" Sideboard="false" Name="Urborg Syphon-Mage" />
+  <Cards CatID="55404" Quantity="2" Sideboard="false" Name="Vaultbreaker" />
+  <Cards CatID="26910" Quantity="1" Sideboard="false" Name="Pyromancer's Swath" />
+  <Cards CatID="35703" Quantity="1" Sideboard="false" Name="Quest for the Nihil Stone" />
+  <Cards CatID="17215" Quantity="2" Sideboard="false" Name="Strength of Lunacy" />
+  <Cards CatID="54468" Quantity="4" Sideboard="false" Name="Bloodfell Caves" />
+  <Cards CatID="58154" Quantity="12" Sideboard="false" Name="Mountain" />
+  <Cards CatID="57660" Quantity="8" Sideboard="false" Name="Swamp" />
+  <Cards CatID="17243" Quantity="4" Sideboard="false" Name="Fiery Temper" />
+  <Cards CatID="25667" Quantity="2" Sideboard="false" Name="Lightning Axe" />
+  <Cards CatID="17263" Quantity="4" Sideboard="false" Name="Violent Eruption" />
+  <Cards CatID="43267" Quantity="3" Sideboard="false" Name="Faithless Looting" />
+  <Cards CatID="25939" Quantity="1" Sideboard="false" Name="Psychotic Episode" />
+  <Cards CatID="15580" Quantity="1" Sideboard="false" Name="Grafted Skullcap" />
+  <Cards CatID="25541" Quantity="1" Sideboard="false" Name="Jaya Ballard, Task Mage" />
+  <Cards CatID="53426" Quantity="1" Sideboard="false" Name="Rummaging Goblin" />
+  <Cards CatID="16839" Quantity="3" Sideboard="true" Name="Dirty Wererat" />
+  <Cards CatID="24279" Quantity="4" Sideboard="true" Name="Gobhobbler Rats" />
+  <Cards CatID="24049" Quantity="2" Sideboard="true" Name="Hellhole Rats" />
+  <Cards CatID="17502" Quantity="1" Sideboard="true" Name="Morality Shift" />
+  <Cards CatID="46737" Quantity="4" Sideboard="true" Name="Pack Rat" />
+  <Cards CatID="42812" Quantity="1" Sideboard="true" Name="Typhoid Rats" />
+</Deck>
